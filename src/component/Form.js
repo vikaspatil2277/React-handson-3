@@ -33,7 +33,7 @@ function Form() {
   return (
     <div>
       {showUserDetails ? (
-        <div className="App">
+        <div className="Form">
           <h1>EMPLOYEE FEEDBACK FORM</h1>
           <form>
             <label>Name : </label>
